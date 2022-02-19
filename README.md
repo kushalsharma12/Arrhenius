@@ -4,6 +4,8 @@
 Savante Arrhenius was Swedish Scientist was the first to determine increasing carbon dioxide are responsible for the Earth’s increasing surface temperature. 
 That’s how we named our project as Arrhenius.
 
+![Group 1619](https://user-images.githubusercontent.com/65327113/154805858-a8ddab0b-ed26-4f87-ab2c-62d7c92c7b36.png)
+
 ## What it is? 🤨
 
 Arrhenius is a social earning and interactive climate change educational app. User will be able to post what they had done in a day to slow down the climate change and those posts will be integrated with their ETH Wallet address so anyone who feels that the user is doing a great work can send crypto to their wallet.
