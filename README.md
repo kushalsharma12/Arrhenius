@@ -30,6 +30,12 @@ Android Studio - Android Studio is the official integrated development environme
 
 [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 
+[Alan AI](https://alan.app/docs/) -To build a multimodal UX with voice commands working in sync with the app’s visuals.
+
+[WEB3j](https://github.com/web3j/web3j) - for eth wallet creation.
+
+[infura] - for eth node connection.
+
 [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
 
 [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
@@ -41,9 +47,7 @@ Android Studio - Android Studio is the official integrated development environme
       Firebase Firestore - A NoSQL database to store all data
 
       Firebase Storage - A clous storage to store all images
-      
-[Alan AI](https://alan.app/docs/) -To build a multimodal UX with voice commands working in sync with the app’s visuals.
-
+     
 
 [Glide](https://github.com/bumptech/glide) - An image loading library for Android backed by Kotlin Coroutines.
 
