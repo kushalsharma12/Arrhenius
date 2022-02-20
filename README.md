@@ -4,7 +4,7 @@
 Savante Arrhenius was Swedish Scientist was the first to determine increasing carbon dioxide are responsible for the Earth’s increasing surface temperature. 
 That’s how we named our project as Arrhenius.
 
-![Group 1619](https://user-images.githubusercontent.com/65327113/154805858-a8ddab0b-ed26-4f87-ab2c-62d7c92c7b36.png)
+![Group 1619](https://user-images.githubusercontent.com/65327113/154849024-8f969c58-dc28-4a6a-85dc-76b918025bed.png)
 
 ## What it is? 🤨
 
