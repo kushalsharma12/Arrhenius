@@ -30,12 +30,12 @@ Twilio will be used for customer engagement. We will send emails and SMS to user
 
 - Home Fragment- here you can see different posts releated to climate change and add value with ETH.
 
-- Wallet Fragment- create your own eth wallet, check your wallet balance and send eth to the people who you think are reducing climate change. Alan your voice assistent will guide you here about the prices of the crytos.
+- Wallet Fragment- create your own eth wallet, check your wallet balance and send eth to the people who you think are reducing climate change. Alan your voice assistent will     guide you here about the prices of the crytos.
 
--Educate Fragment- Learn in the form of stories through voice assistent Alan about the diffrent animals that how they are affected by climate change. Talk with them and improve the society for them.
+- Educate Fragment- Learn in the form of stories through voice assistent Alan about the diffrent animals that how they are affected by climate change. Talk with them and improve the society for them.
 Also, get to know about latest Climate change news through you voice assistent Alan.
 
--Profile Fragment- Check your profile, your bio, your likes and most improtantly your values which denotes that how with small steps you can change the world.
+- Profile Fragment- Check your profile, your bio, your likes and most improtantly your values which denotes that how with small steps you can change the world.
 
 ## Build With 🛠
 
