@@ -3,4 +3,41 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="wallet">Wallet</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="educate">Educate</string>
+    <string name="add_post">Add Post</string>
+    <string name="try_to_minimise_waste_repair_and_reuse_give_unwanted_items_a_new_life_by_donating_them_to_charity_or_selling_them_on_avoid_wasting_food">
+        Try to minimise waste.\n \nRepair and reuse. Give unwanted items a new life by donating them to charity or selling them on. Avoid wasting food.</string>
+    <string name="plant_trees_the_woodland_trust_are_aiming_to_plant_64_million_trees_over_the_next_10_years_and_need_your_help">Plant trees. The Woodland Trust are aiming to plant 64 million trees over the next 10 years – and need your help.</string>
+    <string name="whether_you_want_to_plant_a_single_tree_in_your_garden_or_a_whole_wood_they_have_tools_and_resources_to_help">Whether you want to plant a single tree in your garden, or a whole wood, they have tools and resources to help.</string>
+    <string name="avoiding_meat_and_dairy_products_is_one_of_the_biggest_ways_to_reduce_your_environmental_impact_on_the_planet_studies_suggest_that_a_high_fibre_plant_based_diet_is_also_better_for_your_health_so_it_can_be_a_win_win">Avoiding meat and dairy products is one of the biggest ways to reduce your environmental impact on the planet. Studies suggest that a high-fibre, plant-based diet is also better for your health - so it can be a win-win.</string>
+
+    <string name="create_wallet">Get Wallet Address</string>
+    <string name="your_address_will_be_shown_here">your address will be shown here</string>
+    <string name="connect">connect to a node</string>
+    <string name="address">ADDRESS</string>
+    <string name="balance"> retrieve balance</string>
+    <string name="send">Send</string>
+    <string name="please_check_your_balance"> your balance will be shown here</string>
+    <string name="your_balance">\" your balance in wei is : \"</string>
+    <string name="enter_eth_value_to_send">enter Wei to send</string>
+    <string name="create_etherium_wallet">Create or Log In Etherium Wallet</string>
+    <string name="enter_wallet_name">Enter wallet name</string>
+    <string name="please_enter_password">Enter password</string>
+    <string name="connect_to_etherium_network">Connect to Etherium Network</string>
+    <string name="send_etherium">Send Etherium</string>
+    <string name="your_address">\"Your address is \"</string>
+
+    <string name="greeting_hint">Change greeting</string>
+    <string name="fetch_value">Get greeting</string>
+    <string name="write">Write</string>
+    <string name="gas_limit">Gas limit:%s</string>
+    <string name="gas_price">Gas price:%sGwei</string>
+    <string name="smart_contract_value">Smart contract value</string>
+    <string name="enter_eth_in_wei_to_send">Enter ETH in WEI to send</string>
+
+
 </resources>

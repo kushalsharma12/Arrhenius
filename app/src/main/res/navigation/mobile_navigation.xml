@@ -9,17 +9,47 @@
         android:id="@+id/navigation_home"
         android:name="com.kushalsharma.arrhenius.ui.home.HomeFragment"
         android:label="@string/title_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_wallet"
+            app:destination="@id/navigation_wallet" />
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_account"
+            app:destination="@id/navigation_account" />
+    </fragment>
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.kushalsharma.arrhenius.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_educate"
+        android:name="com.kushalsharma.arrhenius.ui.educate.EducateFragment"
+        android:label="Educate"
+        tools:layout="@layout/fragment_educate" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.kushalsharma.arrhenius.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_post"
+        android:name="com.kushalsharma.arrhenius.ui.addPost.AddPostFragment"
+        android:label="Add Post"
+        tools:layout="@layout/fragment_addpost" >
+        <action
+            android:id="@+id/action_navigation_post_to_navigation_home"
+            app:destination="@id/navigation_home" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_wallet"
+        android:name="com.kushalsharma.arrhenius.WalletFragment"
+        android:label="fragment_wallet"
+        tools:layout="@layout/fragment_wallet" >
+        <action
+            android:id="@+id/action_navigation_wallet_to_navigation_home"
+            app:destination="@id/navigation_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_account"
+        android:name="com.kushalsharma.arrhenius.AccountFragment"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" >
+        <action
+            android:id="@+id/action_navigation_account_to_navigation_wallet"
+            app:destination="@id/navigation_wallet" />
+    </fragment>
 </navigation>
