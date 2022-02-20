@@ -35,7 +35,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/addPostProfileName"
+                    android:id="@+id/viewPostProfileName"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Marvis"
@@ -74,6 +74,7 @@
                 android:background="@drawable/ic_heart" />
 
             <TextView
+                android:id="@+id/likeCount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="4dp"

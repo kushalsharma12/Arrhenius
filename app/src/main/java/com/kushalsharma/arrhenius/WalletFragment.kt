@@ -55,11 +55,9 @@ class WalletFragment : Fragment() {
 
         setUpBouncyCastle()
 
-        val main = MainActivity()
-        val filsdir = main.filesDir.toString()
 
         val ethWalletPath = binding.walletpath.text.toString()
-        file = File(filsdir + ethWalletPath)
+        file = File("${activity!!.filesDir}" + ethWalletPath)
 
         if (!file.mkdirs()) {
             file.mkdirs()
@@ -134,7 +132,7 @@ class WalletFragment : Fragment() {
                     .get()
                 binding.textBalance.text = getString(R.string.your_balance) + balanceWei.balance
             } catch (e: java.lang.Exception) {
-                (activity as MainActivity).showToast("balance failed")
+                (activity as MainActivity).showToast("balance failed and ${e.message}")
             }
 
 
