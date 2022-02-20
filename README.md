@@ -44,8 +44,6 @@ Android Studio - Android Studio is the official integrated development environme
       
 [Alan AI](https://alan.app/docs/) -To build a multimodal UX with voice commands working in sync with the app’s visuals.
 
-[Twilio](https://www.twilio.com/docs/sms/api#:~:text=Twilio's%20Programmable%20SMS%20API%20helps,retrieve%20and%20modify%20message%20history.) 
-Twilio’s Programmable SMS API helps you add robust messaging capabilities to your applications.
 
 [Glide](https://github.com/bumptech/glide) - An image loading library for Android backed by Kotlin Coroutines.
 
